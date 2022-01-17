@@ -6,8 +6,6 @@
   <li> It takes 28 days to test the strength, which is a long period. <br>
   <li> We can save a lot of time & effort by using Data Science methods to estimate raw materials needed to obtain required comprehensive strength.
 </ul>
-<br>
-
 <h3>Features Used</h3>
 <ul>
   <li> Cement (kg in m3 mixture)
