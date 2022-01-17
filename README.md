@@ -17,3 +17,5 @@
   <li> Fine Aggregate (kg in m3 mixture)
   <li> Age (Days)
 </ul>
+<h3>Implementation</h3>
+The above idea (Concrete Comprehensive Strength Prediction) was implemented using <b>Qiskit, Keras & Pennylane</b> which are quantum computing libraries.
